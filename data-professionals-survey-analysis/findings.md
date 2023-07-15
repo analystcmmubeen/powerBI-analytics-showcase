@@ -1,25 +1,25 @@
-**Data Professionals Survey Analysis Dashboard**
+**Welcome to the Data Professionals Survey Analysis Dashboard**
+ 
+This dashboard provides insights for beginners entering the field of data analytics and job providers looking to hire professionals. The data used in this dashboard comes from a real survey conducted among data professionals through various channels.
 
-Welcome to the Data Professionals Survey Analysis Dashboard! This dashboard provides valuable insights for beginners and job providers in the field of data analytics.
+**Key Metrics:** The dashboard includes average age, average salary, field switches, and job satisfaction by management. These metrics give an overview of job satisfaction and the needs of data professionals.
 
-**Key Findings:**
+**Visualizations:** 
 
-Average Earnings: The vertical bar chart reveals that the United States has the highest average earnings among data professionals.
+The **vertical bar chart** shows that the United States has the highest average earnings for data analysts. 
 
-**Popular Programming Language**: The horizontal bar chart highlights Python as the most widely used programming language in the data analytics field.
+The **horizontal bar chart** highlights Python as the most popular programming language among data professionals. 
 
-**Job Satisfaction**: The treemap visualization indicates varying levels of job satisfaction among data professionals based on their management experiences.
+The **treemap visual** indicates job satisfaction levels. 
 
-**Salary and Demand**: The horizontal chart demonstrates the positive correlation between salary and the demand for data professionals.
+The **horizontal chart** demonstrates that higher salaries attract more professionals. 
 
-**Education Background**: The line chart shows that a majority of data professionals hold a bachelor's degree.
+The **line chart** shows that most professionals hold a bachelor's degree. 
 
-**Perceived Difficulty**: The area chart represents the perceived difficulty of the data analytics field, as reported by professionals.
+The **area chart** displays the perceived difficulty of the data analytics field.
 
-KPIs:
 
-**Field Switch**: The field switch KPI reveals that no professionals transitioned to data analytics from other fields.
-Salary Satisfaction: Data professionals express dissatisfaction with the average salary, which stands at 60k.
-**Filters**: Explore data by country and view the distribution of male and female data professionals.
+**KPIs**: The second-to-last KPI reveals that no one switched to data analytics from another field. The last KPI reveals that data professionals are not satisfied with their average salary, which is around 60k.
 
-Discover key insights about earnings, programming languages, job satisfaction, educational backgrounds, and more with this Data Professionals Survey Analysis Dashboard.
+**Filters**: You can use the country filters at the top to see data specific to different countries. The top-right section shows the distribution of males and females in the profession.
+In summary, this Data Professionals Survey Analysis Dashboard provides valuable insights into the field of data analytics, including earnings, popular programming languages, job satisfaction, and more."
