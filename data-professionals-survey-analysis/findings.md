@@ -5,6 +5,7 @@ Welcome to the Data Professionals Survey Analysis Dashboard! This dashboard prov
 **Key Findings:**
 
 Average Earnings: The vertical bar chart reveals that the United States has the highest average earnings among data professionals.
+
 **Popular Programming Language**: The horizontal bar chart highlights Python as the most widely used programming language in the data analytics field.
 
 **Job Satisfaction**: The treemap visualization indicates varying levels of job satisfaction among data professionals based on their management experiences.
